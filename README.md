@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vipin-Kargeti
 - 👀 I’m interested in Programming and Software Development.
 - 🌱 I’m currently learning Android Development and working on my coding skills.
-- 💞️
+
 
 
 <!---
